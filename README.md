@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hello! I'm Benjamin Dickinson
+### Who I am:
+<p>I am a student at Wayne State College in the Career Scholars program. My major is in Computer Information Systems, with a focus in Web Specialist and a minor in Business.</p>
 <!--
 **bendickinson15/bendickinson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
