@@ -4,7 +4,7 @@
 
 ### Experience:
 <p>I've never worked in a computers related field, but I have worked 3 summers as a student custodian at Southeast Community College.</p>
-<p>Connect with me on [linkedin](https://www.linkedin.com/in/benjamin-dickinson-1641a2374/?skipRedirect=true)</p>
+Connect with me on [linkedin](https://www.linkedin.com/in/benjamin-dickinson-1641a2374/?skipRedirect=true)
 <!--
 **bendickinson15/bendickinson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
