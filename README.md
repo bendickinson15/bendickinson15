@@ -4,6 +4,7 @@
 
 ### Experience:
 <p>I've never worked in a computers related field, but I have worked 3 summers as a student custodian at Southeast Community College.</p>
+<p>I do have experience in multiple programming languages, such as Java, C++, HTML and CSS, and a little bit of Python.</p>
 <p>Connect with me on linkedin.</p>
 (https://www.linkedin.com/in/benjamin-dickinson-1641a2374/?skipRedirect=true)
 
